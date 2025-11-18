@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height:100%;
+    background-color: rgb(233, 233, 240);
+    
+}
+.container{
+    display:flex;
+    flex-direction: row;
+}
+.rightpart{
+    margin-top: 48px;
+    margin-left: 40px;
+    padding-left: 70px;
+}
+.signuppage h2{
+    text-align:left;
+    color:#053b83;
+    font-size: 28px;
+    font-family: Verdana;
+}
+.signuppage p{
+    color:rgb(55, 43, 186)
+    font-size: 27px;
+}
+.signuppage table{
+    margin-left: 50px;
+}
+.a{
+    margin-left: 195px;
+    text-decoration: none;
+}
+.b{
+    margin-left: 59px;
+    text-decoration: none;
+
+}
+table{
+    border-collapse: separate;
+    border-spacing: 18px;
+}
+th{
+    color:#053b83;
+}
+.leftpart{
+    margin-top: 4px;
+    margin-left: 44px;
+}
+
+.header{
+    background-color:#2d65ba;
+    height: 13vh;
+    position:relative;
+    padding-bottom: 20px;
+}
+.headerlogo{
+    color: white;
+    position: relative;
+    top: 17px;
+    left:28px;
+    font-size: 50px;
+    font-family: Verdana;
+}
+.auth{
+    position: absolute;
+    top:61px;
+    right: 39px;
+}
+.authlabels{
+    position:absolute;
+    right:107px;
+    bottom:40px;
+    color: white;
+}
+.l2{
+    position:relative;
+    left:32px;
+}
+#login{
+    color: white;
+    background-color:blue;
+}
+#signup{
+    color:white;
+    background-color: green;
+    position: relative;
+    left:197px;
+    font-size: 16px;
+    
+}
+
+.leftpart h2{
+    color:#053b83;
+    margin-top: 30px;
+    font-size: 25px;
+    font-family: Verdana;
+    
+}
+img{
+    margin-top:20px;
+}
+.b1{
+   text-align: right;
+}
+.signuppage{
+    margin-top: 50px;
+}
+.leftpart{
+    margin-top: 50px;
+}
